@@ -1,0 +1,16 @@
+{
+    "name": "githubthree",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "deploy": "gh-pages -d website19"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "homepage": "https://zsigadaniel.github.io/pagination",
+    "dependencies": {
+        "gh-pages": "^2.1.1"
+    }
+}
